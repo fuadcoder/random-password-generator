@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.2)), url(img/loft-living-room-interior-design.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.1)), url(img/loft-living-room-interior-design.jpg);
     background-size:cover;
 }
 
