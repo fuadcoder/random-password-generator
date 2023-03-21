@@ -9,11 +9,8 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(
-        -135deg,
-        #0048ce,
-        #008bfd
-    );
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.2)), url(img/loft-living-room-interior-design.jpg);
+    background-size:cover;
 }
 
 .container {
@@ -25,7 +22,7 @@ body {
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    border-radius: 5px;
+    border-radius: 15px;
     box-shadow: 0 15px 20px rgba(0,0,0,0.15) ;
 }
 
